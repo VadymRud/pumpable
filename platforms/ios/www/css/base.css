@@ -1,0 +1,5 @@
+#exit, #listSMS, #oauth2_login, #qr_scan {
+    color: #fff;
+    background-color: #006105;
+    border-color: #006105;
+}
